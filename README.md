@@ -12,7 +12,8 @@ Email Me 👉 ✉️ **tejpatil354@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** I Love Tech and Tech Love me 💻❤️
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&column=7&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&title=ALL)
+
 
   
 ## 🌐 Socials:
