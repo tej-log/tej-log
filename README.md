@@ -1,7 +1,8 @@
 
-👋 Hi, I'm Imran Alam
+👋 Hi, I'm Tejas Patil
 
-A Passionate Software Engineer | Java & Spring Boot Developer | Full-Stack Engineer
+Java & Spring Boot Developer | Full-Stack Engineer
+
 
 
 📧 Email: **tejpatil354@gmail.com** (Collaboration / Projects)
