@@ -1,4 +1,16 @@
 
+# 💫 Hi 👋, I'm Tejas Patil
+**A passionate Software Engineer || Java Engineer || Java Admin from India**
+
+Email Me 👉 ✉️ **tejpatil354@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Hospital Manangemnt System(Java,Spring,SpringBoot,Mysql,Hibernate)
+- 🌱 **I’m currently learning:** Spring Cloud,KuberNet ,Saas
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Java & DevOps project
+- 💬 **Ask me about:** Java RestApi,DevOps,Cloud
+- 📫 **How to reach me:** I Love Tech and Tech Love me 💻❤️
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejaspatil8389) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tejas Vasant Patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejpatil354@gmail.com) 
 
