@@ -11,8 +11,9 @@ Email Me 👉 ✉️ **tejpatil354@gmail.com** For Collaboration/Project or Anyt
 - 💬 **Ask me about:** Java RestApi,DevOps,Cloud
 - 📫 **How to reach me:** I Love Tech and Tech Love me 💻❤️
 
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&column=7&margin-w=8)
+
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tejaspatil8389) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tejas Vasant Patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejpatil354@gmail.com) 
