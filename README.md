@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Tejas Patil
-**A passionate Software Engineer || Java Engineer || Java Admin from India**
+**A passionate Software Engineer || Java Developer|| Full-Stack Engineer**
 
 Email Me 👉 ✉️ **tejpatil354@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
